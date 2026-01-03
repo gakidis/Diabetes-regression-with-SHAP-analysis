@@ -26,7 +26,7 @@ The following regressors were implemented and compared:
 6. **Explainable AI (XAI):** Applied **SHAP Analysis** to interpret the Support Vector Regressor (SVR) model.
 
 ## Repository Structure
-- `test.ipynb`: The main Jupyter Notebook containing the source code.
+- `app.ipynb`: The main Jupyter Notebook containing the source code.
 - `results.csv`: Evaluation metrics exported after training.
 - `shap_results_SVR/`: Directory containing generated SHAP interpretation plots.
 - `requirements.txt`: List of Python dependencies.
